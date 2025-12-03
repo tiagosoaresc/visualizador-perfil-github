@@ -4,6 +4,7 @@ const btnSearch = document.getElementById("btn-search")
 const profileResults = document.querySelector(".profile-results")
 
 // Evento listener no botão
+// aaaaaaa
 
 
 
